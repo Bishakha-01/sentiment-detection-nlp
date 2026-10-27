@@ -2,6 +2,12 @@
 
 MoodLens is a Streamlit-based application that predicts the emotion expressed in a piece of text. It uses NLP techniques and a Logistic Regression classifier to analyze text and display the predicted emotion along with probability charts and model evaluation results.
 
+## Live Demo
+
+Try MoodLens here: [**Launch MoodLens**](https://sentiment-detection-nlp-94ngdnkki89cnmgykapj6n.streamlit.app/)
+
+Explore the app by entering text and seeing which emotion the model predicts.
+
 ## Features
 
 - **Emotion prediction:** Enter a sentence and get the model's predicted emotion.
